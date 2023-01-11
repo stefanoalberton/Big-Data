@@ -1,4 +1,0 @@
-test dataset for WordCount
-dataset contains five documents
-WordCount prints number of documents dataset
-WordCount also print number of distinct word avarage length words dataset
